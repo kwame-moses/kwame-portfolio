@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600" role="img" aria-label="Photo placeholder">
+  <rect width="480" height="600" fill="#101522"/>
+  <g fill="none" stroke="#1a2131" stroke-width="1">
+    <path d="M0 120H480M0 240H480M0 360H480M0 480H480M120 0V600M240 0V600M360 0V600"/>
+  </g>
+  <g transform="translate(240 280)" fill="none" stroke="#6b7586" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-52 -24h20l12 -18h40l12 18h20a10 10 0 0 1 10 10v58a10 10 0 0 1 -10 10h-104a10 10 0 0 1 -10 -10v-58a10 10 0 0 1 10 -10z"/>
+    <circle cx="0" cy="12" r="22"/>
+  </g>
+  <text x="240" y="380" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#A1AAB8">Add your photo</text>
+  <text x="240" y="410" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#6b7586">src/assets/images</text>
+</svg>
